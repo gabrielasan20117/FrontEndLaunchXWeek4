@@ -1,0 +1,35 @@
+html {
+    font-size: 10px; 
+    font-family: "Open Sans", sans-serif; 
+}
+
+div.cuadrado {
+    width: 500px;
+    height: 300px;
+    background: red;
+    font-size:italic;
+}
+div.imagIzquierda {  
+    width:350px;
+    margin:10px 50px;
+    padding:20px;
+    font-size:italic;
+    color:#000;      
+    position: relative;
+    top: 8em;
+    left: 5em;
+}
+div.imagIzquierda image {
+    max-width: 50%;
+    max-height: 50%;
+    object-fit: contain;
+}
+div.dataDerecha {
+    width:350px;
+    margin:10px 50px;
+    padding:20px;
+    color:#000;      
+    position: relative;
+    top: 30em;
+    left: 30em;
+}
