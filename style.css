@@ -5,16 +5,16 @@ html {
 
 div.cuadrado {
     width: 500px;
-    height: 300px;
+    height: 100px;
     background: red;
     font-size:italic;
 }
 div.imagIzquierda {  
     width:350px;
-    margin:10px 50px;
+    margin:700px;
     padding:20px;
     font-size:italic;
-    color:#000;      
+    background-color: silver;      
     position: relative;
     top: 8em;
     left: 5em;
